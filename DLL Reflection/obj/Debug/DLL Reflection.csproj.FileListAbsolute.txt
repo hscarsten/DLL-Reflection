@@ -1,0 +1,18 @@
+C:\Users\Carsten\source\repos\DLL Reflection\DLL Reflection\bin\Debug\DLL Reflection.exe.config
+C:\Users\Carsten\source\repos\DLL Reflection\DLL Reflection\bin\Debug\DLL Reflection.exe
+C:\Users\Carsten\source\repos\DLL Reflection\DLL Reflection\bin\Debug\DLL Reflection.pdb
+C:\Users\Carsten\source\repos\DLL Reflection\DLL Reflection\obj\Debug\DLL Reflection.csprojAssemblyReference.cache
+C:\Users\Carsten\source\repos\DLL Reflection\DLL Reflection\obj\Debug\DLL Reflection.csproj.CoreCompileInputs.cache
+C:\Users\Carsten\source\repos\DLL Reflection\DLL Reflection\obj\Debug\DLL Reflection.exe
+C:\Users\Carsten\source\repos\DLL Reflection\DLL Reflection\obj\Debug\DLL Reflection.pdb
+C:\Users\Carsten\source\repos\DLL Reflection\DLL Reflection\bin\Debug\Humanizer.dll
+C:\Users\Carsten\source\repos\DLL Reflection\DLL Reflection\bin\Debug\ICSharpCode.Decompiler.dll
+C:\Users\Carsten\source\repos\DLL Reflection\DLL Reflection\bin\Debug\Mono.Cecil.dll
+C:\Users\Carsten\source\repos\DLL Reflection\DLL Reflection\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Carsten\source\repos\DLL Reflection\DLL Reflection\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Carsten\source\repos\DLL Reflection\DLL Reflection\bin\Debug\Mono.Cecil.Rocks.dll
+C:\Users\Carsten\source\repos\DLL Reflection\DLL Reflection\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Carsten\source\repos\DLL Reflection\DLL Reflection\bin\Debug\System.ValueTuple.dll
+C:\Users\Carsten\source\repos\DLL Reflection\DLL Reflection\bin\Debug\ICSharpCode.Decompiler.pdb
+C:\Users\Carsten\source\repos\DLL Reflection\DLL Reflection\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Carsten\source\repos\DLL Reflection\DLL Reflection\obj\Debug\DLL Reflection.csproj.CopyComplete
